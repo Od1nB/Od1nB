@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+
+### Welcome to my profile 
+ 
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Od1nB&layout=compact&theme=tokyonight" />
+</a>
+<!--[![General stats](https://github-readme-stats.vercel.app/api?username=Od1nB)](https://github.com/anuraghazra/github-readme-stats)--!>
+
+#### Brr
+This is my MICROSOFT:/GitHub/repo cloud save for most fun stuff I do will learning new lanugages or try to get better by doing. Some archive repos from university is also present. 
+
+Give me an idea on what I should learn next...
 
 <!--
 **Od1nB/Od1nB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

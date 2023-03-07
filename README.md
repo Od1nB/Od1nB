@@ -9,7 +9,7 @@
 <!--[![General stats](https://github-readme-stats.vercel.app/api?username=Od1nB)](https://github.com/anuraghazra/github-readme-stats)--!>
 
 #### Brr
-This is my MICROSOFT:/GitHub/repo cloud save for most fun stuff I do will learning new lanugages or try to get better by doing. Some archive repos from university is also present. 
+This is my MICROSOFT:/GitHub/repo cloud save for most fun stuff I do will learning new lanugages or try to get better by doing. Some archive repos from university, hackathons and work is also here. 
 
 Give me an idea on what I should learn next...
 

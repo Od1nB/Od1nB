@@ -1,15 +1,14 @@
-## Hi there 👋
+## Heyo 👋
 
 ### Welcome to my profile 
  
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Od1nB&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Od1nB&layout=compact&hide=Tree-sitter%20Query&theme=tokyonight&title_color=e0b0ff&text_color=e0b0ff" />
 </a>
-<!--[![General stats](https://github-readme-stats.vercel.app/api?username=Od1nB)](https://github.com/anuraghazra/github-readme-stats)--!>
 
 #### Brr
-This is my /home/github cloud save for most fun stuff I do will learning new lanugages or try to get better by doing. Some archive repos from university, hackathons and work is also here. 
+This is my ~/github/ cloud save for most fun stuff I do will learning new lanugages or try to get better by doing. Some archive repos from university, hackathons and work is also here. 
 
 Give me an idea on what I should learn next...
 
